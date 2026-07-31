@@ -10,7 +10,7 @@ This repository contains the implementation of an **Explainable Artificial Intel
 
 The proposed framework integrates **EfficientNetB0** with a **Sobel-Guided Edge Attention (SGEA)** module to improve lesion feature extraction while employing **Grad-CAM++** and **Local Feature Entropy Masking (LFEM)** to generate refined visual explanations, enhancing model transparency and interpretability.
 
-The project was developed as part of the **M.Tech (Computer Science & Engineering)** research work at **Aliah University**.
+The project was developed as part of the **Internship** research work for **IEEE CIS Kolkata Chapter Summer Internship 2026**.
 
 ---
 
@@ -279,13 +279,14 @@ If you use this work in your research, please cite the corresponding project rep
 
 M.Tech (Computer Science & Engineering)
 
-Aliah University
+Aliah University, Kolkata
 
 West Bengal, India
 
 GitHub
 
 https://github.com/rupamnag
+
 
 ---
 
@@ -295,7 +296,7 @@ The author gratefully acknowledges:
 
 - The creators of the **Kvasir-v2** dataset for providing a publicly available benchmark dataset for gastrointestinal disease research.
 - The TensorFlow and Keras development teams for their open-source deep learning framework.
-- Aliah University for providing academic guidance and research support.
+- IEEE CIS Kolkata Chapter Summer Internship 2026 for providing academic guidance and research support.
 
 ---
 
