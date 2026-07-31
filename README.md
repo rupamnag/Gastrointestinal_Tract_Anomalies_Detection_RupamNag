@@ -87,6 +87,10 @@ https://doi.org/10.1145/3083187.3083212
 
 Please download the dataset from the official website and place it inside the `dataset/` directory before running the notebook.
 
+For detailed dataset download instructions and folder organization, see:
+
+**dataset/README.md**
+
 ---
 
 # Repository Structure
